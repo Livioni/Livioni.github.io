@@ -76,7 +76,7 @@ Submitted to Infocom 2025
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
@@ -90,11 +90,11 @@ Submitted to IEEE Transactions on Services Computing （CCF-A)
  <u>Haosong Peng*</u>, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 
 </div>
-</div>
+</div>-->
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
+<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics](https://arxiv.org/abs/2404.09245)**
@@ -108,7 +108,7 @@ Submitted to IEEE Transactions on Computers (CCF-A)
  <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
 
 </div>
-</div>
+</div>-->
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICDCS 2024</div><img src='images/tangram.png' alt="sym" width="100%"></div></div>

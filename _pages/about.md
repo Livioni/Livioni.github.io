@@ -18,10 +18,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a post-graduate student at  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), and received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm). As a member of the X-NS Group, I’m supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). My research interests include Video Analytics Systems, Multimedia Systems, and Edge Intelligence.
-
-I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or Computer Networks or System or Multimedia or something just like that. I aim to contribute innovative research and advancements in these dynamic areas.
-[Here](resources/HaosongPengCV.pdf) is my CV ([Chinese Version](resources/彭皓崧中文简历.pdf)).
+I'm a Research Assistant at Division of Integrative Systems and Design, HKUST. Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Multimedia Systems, and Edge Intelligence.
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
@@ -39,42 +36,9 @@ I am seeking a PhD opportunity (2025 Fall) in the fields of Computer Vision or C
 
 *2022.07.11*  🎉🎉 Received an acceptance letter from the School of Automation, Beijing Institute of Technology!
 
-
 # 📝 Publications
 
 ## 📜 Articles & Manuscripts (* denotes equal contribution)
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/dgtr.png' alt="sym" width="100%"></div></div>
-
-<div class='paper-box-text' markdown="1">
-
-**[DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes](https://arxiv.org/abs/2411.12309)**
-
----
-
-2025 IEEE International Conference on Robotics and Automation (CCF-B)
-
----
-
-Hao Li\*, Yuanyuan Gao\*, <u>Haosong Peng*</u>, Chenming Wu, Weicai Ye, Yufeng Zhan, Chen Zhao, Dingwen Zhang, Jingdong Wang, Junwei Han
-
-</div>
-</div>
-
-<!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infocom 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-
-<div class='paper-box-text' markdown="1">
-
----
-
-Submitted to Infocom 2025
-
----
-
-</div>
-</div>-->
-
-
 
 <!--<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -83,14 +47,11 @@ Submitted to Infocom 2025
 
 ---
 
-Submitted to IEEE Transactions on Services Computing （CCF-A)
+Under Review, IEEE Transactions on Services Computing （CCF-A)
 
 ---
 
  <u>Haosong Peng*</u>, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
-
-</div>
-</div>-->
 
 
 
@@ -101,14 +62,29 @@ Submitted to IEEE Transactions on Services Computing （CCF-A)
 
 ---
 
-Submitted to IEEE Transactions on Computers (CCF-A) 
+Under Review, IEEE Transactions on Computers (CCF-A) 
 
 ---
 
  <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/dgtr.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box-text' markdown="1">
+
+**[DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes](https://ieeexplore.ieee.org/abstract/document/11127313)**
+
+---
+
+2025 IEEE International Conference on Robotics and Automation (CCF-B)
+
+---
+
+Hao Li\*, Yuanyuan Gao\*, `<u>`Haosong Peng*`</u>`, Chenming Wu, Weicai Ye, Yufeng Zhan, Chen Zhao, Dingwen Zhang, Jingdong Wang, Junwei Han
+
 </div>
-</div>-->
+</div>
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICDCS 2024</div><img src='images/tangram.png' alt="sym" width="100%"></div></div>

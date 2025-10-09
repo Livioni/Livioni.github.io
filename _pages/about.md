@@ -40,39 +40,45 @@ I'm a Research Assistant at Division of Integrative Systems and Design, HKUST. B
 
 ## 📜 Articles & Manuscripts (* denotes equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
 
 ---
 
-Under Review, IEEE Transactions on Services Computing （CCF-A)
+Submitted to IEEE Transactions on Services Computing （CCF-A)
 
 ---
 
  <u>Haosong Peng*</u>, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-  
 
 **[Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics](https://arxiv.org/abs/2404.09245)**
 
 ---
 
-Under Review, IEEE Transactions on Computers (CCF-A) 
+Submitted to IEEE Transactions on Computers (CCF-A) 
 
 ---
 
  <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/dgtr.png' alt="sym" width="100%"></div></div>
 
 <div class='paper-box-text' markdown="1">
 
-**[DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes](https://ieeexplore.ieee.org/abstract/document/11127313)**
+**[DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes](https://arxiv.org/abs/2411.12309)**
 
 ---
 
@@ -128,8 +134,14 @@ IEEE Transactions on Services Computing (CCF-A)
 
 
 
-
 ## 👨‍💻 Collaboration
+
+<div markdown="1">
+- Yi Chang, <u>Haosong Peng</u>, Yufeng Zhan, Yuanqing Xia. " [Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10662729)," in 43rd Chinese Control Conference.
+</div>
+
+
+---
 
 <div markdown="1">
 - Yi Chang, <u>Haosong Peng</u>, Yufeng Zhan, Yuanqing Xia. " [Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10662729)," in 43rd Chinese Control Conference.

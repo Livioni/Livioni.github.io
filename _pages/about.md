@@ -40,8 +40,14 @@ I'm a Research Assistant at Division of Integrative Systems and Design, HKUST. B
 
 ## 📜 Articles & Manuscripts (* denotes equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TSC</div>
+      <img src='images/radiant.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
 **[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
 
@@ -54,9 +60,15 @@ Under Review, IEEE Transactions on Services Computing （CCF-A)
  <u>Haosong Peng*</u>, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">IEEE TC</div>
+      <img src='images/arena.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+  
 
 **[Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics](https://arxiv.org/abs/2404.09245)**
 

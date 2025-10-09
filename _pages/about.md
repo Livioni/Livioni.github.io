@@ -144,13 +144,6 @@ IEEE Transactions on Services Computing (CCF-A)
 ---
 
 <div markdown="1">
-- Yi Chang, <u>Haosong Peng</u>, Yufeng Zhan, Yuanqing Xia. " [Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10662729)," in 43rd Chinese Control Conference.
-</div>
-
-
----
-
-<div markdown="1">
 - Zhiwei Wu, <u>Haosong Peng</u>, Biao Hu, and Xiaodong Feng. " [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)," in IEEE Access 9 (2021): 103407-103418.,
 </div>
 

@@ -78,7 +78,7 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 
 <div class='paper-box-text' markdown="1">
 
-**[DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes](https://arxiv.org/abs/2411.12309)**
+**[DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes](https://ieeexplore.ieee.org/abstract/document/11127313)**
 
 ---
 

@@ -23,6 +23,7 @@ I'm a Research Assistant at Division of Integrative Systems and Design, HKUST. B
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
 # 🔥 News
+*2025.11.03 🎉🎉* Joined in the Division of Integrative Systems and Design, HKUST as a research assistant.
 
 *2025.01.28 🎉🎉* The latest paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B).
 
@@ -30,15 +31,27 @@ I'm a Research Assistant at Division of Integrative Systems and Design, HKUST. B
 
 *2024.04.13 🎉🎉* The paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accepted in IEEE ICDCS 2024 (CCF-B).
 
-*2024.04.01 🎉🎉* The paper “*Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning*” has been accepted as a poster paper in CCC 2024 (CAA-A).
-
 *2023.12.16 🎉🎉* Won the First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling and the [Champion of Mathematical Modeling Star](https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm).
-
-*2022.07.11*  🎉🎉 Received an acceptance letter from the School of Automation, Beijing Institute of Technology!
 
 # 📝 Publications
 
 ## 📜 Articles & Manuscripts (* denotes equal contribution)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/omnivggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560)**
+
+---
+
+Arxiv 2025
+
+---
+
+ <u>Haosong Peng*</u>, Hao Li*, Yalun Dai, Yushi Lan, Yihang Luo, Tianyu Qi, Zhengshen Zhang, Yufeng Zhan, Junfei Zhang, Wenchao Xu, Ziwei Liu
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

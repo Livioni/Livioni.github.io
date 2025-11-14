@@ -18,11 +18,12 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a Research Assistant at Division of Integrative Systems and Design, HKUST. Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Multimedia Systems, and Edge Intelligence.
+I'm a Research Assistant at Division of Integrative Systems and Design, HKUST. My supervisor is Xu Wenchao. Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Multimedia Systems, and Edge Intelligence.
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
 # 🔥 News
+
 *2025.11.03 🎉🎉* Joined in the Division of Integrative Systems and Design, HKUST as a research assistant.
 
 *2025.01.28 🎉🎉* The latest paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B).
@@ -48,10 +49,11 @@ Arxiv 2025
 
 ---
 
- <u>Haosong Peng*</u>, Hao Li*, Yalun Dai, Yushi Lan, Yihang Luo, Tianyu Qi, Zhengshen Zhang, Yufeng Zhan, Junfei Zhang, Wenchao Xu, Ziwei Liu
+ `<u>`Haosong Peng*`</u>`, Hao Li*, Yalun Dai, Yushi Lan, Yihang Luo, Tianyu Qi, Zhengshen Zhang, Yufeng Zhan, Junfei Zhang, Wenchao Xu, Ziwei Liu
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -64,11 +66,10 @@ Submitted to IEEE Transactions on Services Computing （CCF-A)
 
 ---
 
- <u>Haosong Peng*</u>, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
+ `<u>`Haosong Peng*`</u>`, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
@@ -78,14 +79,15 @@ Submitted to IEEE Transactions on Services Computing （CCF-A)
 
 ---
 
-Submitted to IEEE Transactions on Computers (CCF-A) 
+Submitted to IEEE Transactions on Computers (CCF-A)
 
 ---
 
- <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
+ `<u>`Haosong Peng*`</u>`, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/dgtr.png' alt="sym" width="100%"></div></div>
 
@@ -99,11 +101,10 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 
 ---
 
-Hao Li\*, Yuanyuan Gao\*, <u>Haosong Peng*</u>, Chenming Wu, Weicai Ye, Yufeng Zhan, Chen Zhao, Dingwen Zhang, Jingdong Wang, Junwei Han
+Hao Li\*, Yuanyuan Gao\*, `<u>`Haosong Peng*`</u>`, Chenming Wu, Weicai Ye, Yufeng Zhan, Chen Zhao, Dingwen Zhang, Jingdong Wang, Junwei Han
 
 </div>
 </div>
-
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICDCS 2024</div><img src='images/tangram.png' alt="sym" width="100%"></div></div>
@@ -117,7 +118,7 @@ Hao Li\*, Yuanyuan Gao\*, <u>Haosong Peng*</u>, Chenming Wu, Weicai Ye, Yufeng Z
 
 ---
 
-<u>Haosong Peng</u>, Yufeng Zhan, Peng Li, Yuanqing Xia
+`<u>`Haosong Peng`</u>`, Yufeng Zhan, Peng Li, Yuanqing Xia
 
 [Slide](resources/Tangram.pdf)
 
@@ -132,27 +133,25 @@ Hao Li\*, Yuanyuan Gao\*, <u>Haosong Peng*</u>, Chenming Wu, Weicai Ye, Yufeng Z
 
 ---
 
-IEEE Transactions on Services Computing (CCF-A) 
+IEEE Transactions on Services Computing (CCF-A)
 
 ---
 
-<u>Haosong Peng</u> , Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
+`<u>`Haosong Peng`</u>` , Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
 
 </div>
 </div>
 
+
 ---
 
-- <u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia. "**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**" in 2022 International Conference on Research in Adaptive and Convergent Systems. [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
-
-
+- `<u>`Haosong Peng`</u>`, Chuge Wu, Yufeng Zhan, Yuanqing Xia. "**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**" in 2022 International Conference on Research in Adaptive and Convergent Systems. [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
 
 ## 👨‍💻 Collaboration
 
 <div markdown="1">
 - Yi Chang, <u>Haosong Peng</u>, Yufeng Zhan, Yuanqing Xia. " [Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10662729)," in 43rd Chinese Control Conference.
 </div>
-
 
 ---
 
@@ -197,12 +196,12 @@ IEEE Transactions on Services Computing (CCF-A)
 
 - Lab Members
 
-  - [Ruifeng Ma ](https://ac.ppeak.site/) (BIT)
-  - [Tianyu QI](https://tymiracle.top/) (SYSU)
+  - [Huo Fushuo](https://huofushuo.github.io/) (PolyU)
+  - [Ma Ruifeng](https://ac.ppeak.site/) (BIT)
+  - [Qi Tianyu](https://tymiracle.top/) (SYSU)
   - [Feng Wei](https://github.com/Couteaux123) (BIT)
-  
-  
 - Co-authors
 
-  - [Hao Li	](https://lifuguan.github.io/) (NWPU)
-  - [Zhiwei Wu](https://waynewu0526.github.io/) (BIT)
+  - [Li Hao](https://lifuguan.github.io/) (NWPU)
+  - [Wu Zhiwei](https://waynewu0526.github.io/) (BIT)
+  - [Dai Yalun](https://scholar.google.com/citations?user=6XyNVowAAAAJ&hl=zh-CN&oi=ao) (NTU)

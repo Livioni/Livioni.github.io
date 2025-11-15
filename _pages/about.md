@@ -18,7 +18,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a Research Assistant at Division of Integrative Systems and Design, HKUST. My supervisor is Xu Wenchao. Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Multimedia Systems, and Edge Intelligence.
+I'm a Research Assistant at Division of Integrative Systems and Design, HKUST. My supervisor is [Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Multimedia Systems, and Edge Intelligence.
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
@@ -49,7 +49,7 @@ Arxiv 2025
 
 ---
 
- `<u>`Haosong Peng*`</u>`, Hao Li*, Yalun Dai, Yushi Lan, Yihang Luo, Tianyu Qi, Zhengshen Zhang, Yufeng Zhan, Junfei Zhang, Wenchao Xu, Ziwei Liu
+ <u>Haosong Peng*</u>, Hao Li*, Yalun Dai, Yushi Lan, Yihang Luo, Tianyu Qi, Zhengshen Zhang, Yufeng Zhan, Junfei Zhang, Wenchao Xu, Ziwei Liu
 
 </div>
 </div>
@@ -66,7 +66,7 @@ Submitted to IEEE Transactions on Services Computing （CCF-A)
 
 ---
 
- `<u>`Haosong Peng*`</u>`, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
+ <u>Haosong Peng*</u>, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
 
 </div>
 </div>
@@ -83,7 +83,7 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 
 ---
 
- `<u>`Haosong Peng*`</u>`, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
+ <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
 
 </div>
 </div>
@@ -101,7 +101,7 @@ Submitted to IEEE Transactions on Computers (CCF-A)
 
 ---
 
-Hao Li\*, Yuanyuan Gao\*, `<u>`Haosong Peng*`</u>`, Chenming Wu, Weicai Ye, Yufeng Zhan, Chen Zhao, Dingwen Zhang, Jingdong Wang, Junwei Han
+Hao Li\*, Yuanyuan Gao\*, <u>Haosong Peng*</u>, Chenming Wu, Weicai Ye, Yufeng Zhan, Chen Zhao, Dingwen Zhang, Jingdong Wang, Junwei Han
 
 </div>
 </div>
@@ -118,7 +118,7 @@ Hao Li\*, Yuanyuan Gao\*, `<u>`Haosong Peng*`</u>`, Chenming Wu, Weicai Ye, Yufe
 
 ---
 
-`<u>`Haosong Peng`</u>`, Yufeng Zhan, Peng Li, Yuanqing Xia
+<u>Haosong Peng</u>, Yufeng Zhan, Peng Li, Yuanqing Xia
 
 [Slide](resources/Tangram.pdf)
 
@@ -137,7 +137,7 @@ IEEE Transactions on Services Computing (CCF-A)
 
 ---
 
-`<u>`Haosong Peng`</u>` , Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
+<u>Haosong Peng</u>, Yufeng Zhan, Dihua Zhai, Xiaopu Zhang, and Yuanqing Xia
 
 </div>
 </div>
@@ -145,7 +145,7 @@ IEEE Transactions on Services Computing (CCF-A)
 
 ---
 
-- `<u>`Haosong Peng`</u>`, Chuge Wu, Yufeng Zhan, Yuanqing Xia. "**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**" in 2022 International Conference on Research in Adaptive and Convergent Systems. [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
+- <u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia. "**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**" in 2022 International Conference on Research in Adaptive and Convergent Systems. [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
 
 ## 👨‍💻 Collaboration
 

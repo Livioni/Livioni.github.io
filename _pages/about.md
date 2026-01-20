@@ -18,7 +18,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a Research Assistant at Division of Integrative Systems and Design, HKUST. My supervisor is [Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Multimedia Systems, and Edge Intelligence.
+I'm a PhD student at Division of Integrative Systems and Design, HKUST. My supervisor is [Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include Embodied Intelligence, 3D Vision, and Edge Intelligence.
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
@@ -145,9 +145,9 @@ IEEE Transactions on Services Computing (CCF-A)
 
 ---
 
-- <u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia. "**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**" in 2022 International Conference on Research in Adaptive and Convergent Systems. [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf)
+<!-- - <u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia. "**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**" in 2022 International Conference on Research in Adaptive and Convergent Systems. [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf) -->
 
-## 👨‍💻 Collaboration
+<!-- ## 👨‍💻 Collaboration
 
 <div markdown="1">
 - Yi Chang, <u>Haosong Peng</u>, Yufeng Zhan, Yuanqing Xia. " [Octopus: An End-to-end Multi-DAG Scheduling Method Based on Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/10662729)," in 43rd Chinese Control Conference.
@@ -157,21 +157,23 @@ IEEE Transactions on Services Computing (CCF-A)
 
 <div markdown="1">
 - Zhiwei Wu, <u>Haosong Peng</u>, Biao Hu, and Xiaodong Feng. " [Trajectory Tracking of a Novel Underactuated AUV via Nonsingular Integral Terminal Sliding Mode Control](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9492070)," in IEEE Access 9 (2021): 103407-103418.,
-</div>
+</div> -->
 
-## 📁 Patents
+<!-- ## 📁 Patents
 
 - 一种针对目标检测的云边协同方法、装置及产品, （已受理，除导师外第一发明人）
 - 一种视频分析边缘计算加速方法、装置、介质及产品,（已受理，除导师外第一发明人）
-- 一种基于图神经网络的 LRA 调度方法、设备及介质（已受理，除导师外第三发明人）
+- 一种基于图神经网络的 LRA 调度方法、设备及介质（已受理，除导师外第三发明人） -->
 
 # 📖 Educations
 
-- *2022.09 - 2025.06 (now)*, Post-graduate, Automation School, Beijing Institute of Technology, Beijing
+- *2026.02 - 2029.02 (expected)*, Phd Student, Division of Integrative Systems and Design, HKUST, Hong Kong SAR
+- *2025.09 - 2026.01*, Research Assistant, Division of Integrative Systems and Design, HKUST, Hong Kong SAR
+- *2022.09 - 2025.06*, Postgraduate, Automation School, Beijing Institute of Technology, Beijing
 - *2018.09 - 2022.06*, Undergraduate, the College of Information Science and Technology, Beijing University of Chemical and Technology, Beijing
 
   **Rank: 1/153** \| **GPA: 4.07/4.33**
-- *2015.09-2018.06*, Chongqing Yucai High School, Chongqing
+<!-- - *2015.09-2018.06*, Chongqing Yucai High School, Chongqing -->
 
 # 🎖 Honors and Awards
 
@@ -187,16 +189,15 @@ IEEE Transactions on Services Computing (CCF-A)
 
 - *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/), Chongqing.
 
-# 📚 Skills
+<!-- # 📚 Skills
 
 - **Software:** Python, Pytorch, Matlab & Simulink, R, C, Golang, Bash, Linux, Docker, Latex, MS Office
-- **Language:** English (CET-6), Chinese (Native)
+- **Language:** English (CET-6), Chinese (Native) -->
 
 # 👥 Links
 
 - Lab Members
-
-  - [Huo Fushuo](https://huofushuo.github.io/) (PolyU)
+  
   - [Ma Ruifeng](https://ac.ppeak.site/) (BIT)
   - [Qi Tianyu](https://tymiracle.top/) (SYSU)
   - [Feng Wei](https://github.com/Couteaux123) (BIT)

@@ -18,17 +18,21 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm a PhD student at Division of Integrative Systems and Design, HKUST. My supervisor is [Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include Embodied Intelligence, 3D Vision, and Edge Intelligence.
+I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My supervisor is [Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include Embodied Intelligence, 3D Vision, and Edge Intelligence.
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
 # 🔥 News
 
+*2026.02.22 🎉🎉* The latest paper “*OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer*” has been accepted in CVPR2026 (CCF-A).
+
+*2026.02.01 🎉🎉* Started my Ph.D. program at Division of Integrative Systems and Design, HKUST.
+
 *2025.11.03 🎉🎉* Joined in the Division of Integrative Systems and Design, HKUST as a research assistant.
 
-*2025.01.28 🎉🎉* The latest paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B).
+*2025.01.28 🎉🎉* The paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B).
 
-*2024.10.01 🎉🎉* The latest paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
+*2024.10.01 🎉🎉* The paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
 
 *2024.04.13 🎉🎉* The paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accepted in IEEE ICDCS 2024 (CCF-B).
 
@@ -38,14 +42,14 @@ I'm a PhD student at Division of Integrative Systems and Design, HKUST. My super
 
 ## 📜 Articles & Manuscripts (* denotes equal contribution)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/omnivggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2026</div><img src='images/omnivggt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560)**
 
 ---
 
-Arxiv 2025
+2026 Computer Vision and Pattern Recognition (CCF-A)
 
 ---
 

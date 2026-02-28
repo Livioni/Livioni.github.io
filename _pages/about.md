@@ -24,6 +24,8 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 
 # 🔥 News
 
+*2026.02.28 🎉🎉* The latest paper “*Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
+
 *2026.02.22 🎉🎉* The latest paper “*OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer*” has been accepted in CVPR2026 (CCF-A).
 
 *2026.02.01 🎉🎉* Started my Ph.D. program at Division of Integrative Systems and Design, HKUST.
@@ -35,8 +37,6 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 *2024.10.01 🎉🎉* The paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
 
 *2024.04.13 🎉🎉* The paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accepted in IEEE ICDCS 2024 (CCF-B).
-
-*2023.12.16 🎉🎉* Won the First Prize of The 20th China Post-Graduate Mathematical Contest in Modeling and the [Champion of Mathematical Modeling Star](https://grd.bit.edu.cn/yyxw2/2c449ef260f448f2b7f6196d84c6c444.htm).
 
 # 📝 Publications
 
@@ -55,18 +55,22 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 
  <u>Haosong Peng*</u>, Hao Li*, Yalun Dai, Yushi Lan, Yihang Luo, Tianyu Qi, Zhengshen Zhang, Yufeng Zhan, Junfei Zhang, Wenchao Xu, Ziwei Liu
 
+--- 
+
+[Homepage](https://livioni.github.io/OmniVGGT-official/)   [Code](https://github.com/Livioni/OmniVGGT-official)
+
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
 
 ---
 
-Submitted to IEEE Transactions on Services Computing （CCF-A)
+IEEE Transactions on Services Computing (CCF-A)
 
 ---
 

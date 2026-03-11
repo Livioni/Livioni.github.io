@@ -18,7 +18,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My supervisor is [Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include Embodied Intelligence, 3D Vision, and Edge Intelligence.
+I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My supervisor is [Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Multimedia, and Edge Intelligence.
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 

@@ -18,13 +18,13 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My supervisor is [Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Multimedia, and Edge Intelligence.
+I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My supervisor is [Prof. Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Multimedia, and Edge Intelligence.
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
 # 🔥 News
 
-*2026.02.28 🎉🎉* The latest paper “*Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
+*2026.02.28 🎉🎉* The latest paper “*Radiant: Efficient Timely Large-Scale Scene Analytics Based on Hierarchical Framework*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
 
 *2026.02.22 🎉🎉* The latest paper “*OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer*” has been accepted in CVPR2026 (CCF-A).
 
@@ -49,7 +49,7 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 
 ---
 
-2026 Computer Vision and Pattern Recognition (CCF-A)
+2026 Computer Vision and Pattern Recognition (CCF-A) <span style="color:red">Highlight</span>
 
 ---
 
@@ -66,7 +66,7 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[Radiant: Large-scale 3D Gaussian Rendering based on Hierarchical Framework](https://arxiv.org/abs/2412.05546)**
+**[Radiant: Efficient Timely Large-Scale Scene Analytics Based on Hierarchical Framework](https://ieeexplore.ieee.org/abstract/document/11425817)**
 
 ---
 

@@ -2,7 +2,15 @@
     "workbench.colorCustomizations": {
         "activityBar.background": "#3C0E7B",
         "titleBar.activeBackground": "#5413AC",
-        "titleBar.activeForeground": "#FCFAFE"
+        "titleBar.activeForeground": "#FCFAFE",
+        "titleBar.inactiveBackground": "#312A3D",
+        "titleBar.inactiveForeground": "#FAFAFB",
+        "statusBar.background": "#3B0E7A",
+        "statusBar.foreground": "#FDFBFF",
+        "statusBar.debuggingBackground": "#3B0E7A",
+        "statusBar.debuggingForeground": "#FDFBFF",
+        "statusBar.noFolderBackground": "#3B0E7A",
+        "statusBar.noFolderForeground": "#FDFBFF"
     },
     "git.ignoreLimitWarning": true
 }

@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Peng Haosong | 彭皓崧"
 description              : "Focusing on 3D Vision."
+url                      : "https://livioni.github.io"
 repository               : "Livioni/Livioni.github.io"
 google_scholar_stats_use_cdn : false
 

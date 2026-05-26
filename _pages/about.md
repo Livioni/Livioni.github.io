@@ -18,7 +18,7 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My supervisor is [Prof. Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab,  [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Multimedia, and Edge Intelligence.
+I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My supervisor is [Prof. Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab, [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Embodied Intelligence, and Edge Intelligence.
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
@@ -42,6 +42,26 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 
 ## 📜 Articles & Manuscripts (* denotes equal contribution)
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PrePrint</div><img src='images/spatialbenchteaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[SpatialBench: Is your spatial foundation model an all-round player?](https://ropedia.github.io/SpatialBench/)**
+
+---
+
+ <u>Haosong Peng*</u>, Hao Li*, Jiaqi Chen, Yuhao Pan, Runmao Yao, Yalun Dai, Fushuo Huo, Fangzhou Hong, Zhaoxi Chen, Haozhao Wang, Dingwen Zhang, Ziwei Liu, Wenchao Xu
+
+--- 
+
+<span style="display: inline-flex; gap: 2.5rem;">
+  <a href="https://ropedia.github.io/SpatialBench/">Homepage</a>
+  <a href="https://github.com/Ropedia/SpatialBench">Code</a>
+</span>
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2026</div><img src='images/omnivggt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -57,7 +77,10 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 
 --- 
 
-[Homepage](https://livioni.github.io/OmniVGGT-official/)   [Code](https://github.com/Livioni/OmniVGGT-official)
+<span style="display: inline-flex; gap: 2.5rem;">
+  <a href="https://livioni.github.io/OmniVGGT-official/">Homepage</a>
+  <a href="https://github.com/Livioni/OmniVGGT-official">Code</a>
+</span>
 
 </div>
 </div>
@@ -149,9 +172,6 @@ IEEE Transactions on Services Computing (CCF-A)
 
 </div>
 </div>
-
-
----
 
 <!-- - <u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia. "**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**" in 2022 International Conference on Research in Adaptive and Convergent Systems. [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf) -->
 

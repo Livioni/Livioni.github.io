@@ -46,7 +46,7 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PrePrint</div><img src='images/spatialbenchteaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[SpatialBench: Is your spatial foundation model an all-round player?](https://ropedia.github.io/SpatialBench/)**
+**[SpatialBench: Is your spatial foundation model an all-round player?](https://arxiv.org/abs/2605.27367)**
 
 ---
 

@@ -23,10 +23,13 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
 # 🔥 News
+*2026.05.31 🎉🎉* The paper “*Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics*” has been accepted in IEEE Transactions on Computers (CCF-A).
 
-*2026.02.28 🎉🎉* The latest paper “*Radiant: Efficient Timely Large-Scale Scene Analytics Based on Hierarchical Framework*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
+*2026.05.26 🎉🎉* We release a 3D geometry foundation model benchmark with Ropedia and NTU: "*[SpatialBench: Is your spatial foundation model an all-round player?](https://arxiv.org/abs/2605.27367)*", take a look!
 
-*2026.02.22 🎉🎉* The latest paper “*OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer*” has been accepted in CVPR2026 (CCF-A).
+*2026.02.28 🎉🎉* The paper “*Radiant: Efficient Timely Large-Scale Scene Analytics Based on Hierarchical Framework*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
+
+*2026.02.22 🎉🎉* The paper “*OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer*” has been accepted in CVPR2026 (CCF-A).
 
 *2026.02.01 🎉🎉* Started my Ph.D. program at Division of Integrative Systems and Design, HKUST.
 
@@ -35,8 +38,6 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 *2025.01.28 🎉🎉* The paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B).
 
 *2024.10.01 🎉🎉* The paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
-
-*2024.04.13 🎉🎉* The paper “*Tangram: High-resolution Video Analytics on Serverless Platform with SLO-aware Batching*” has been accepted in IEEE ICDCS 2024 (CCF-B).
 
 # 📝 Publications
 
@@ -50,7 +51,7 @@ I'm now a PhD student at Division of Integrative Systems and Design, HKUST. My s
 
 ---
 
- <u>Haosong Peng*</u>, Hao Li*, Jiaqi Chen, Yuhao Pan, Runmao Yao, Yalun Dai, Fushuo Huo, Fangzhou Hong, Zhaoxi Chen, Haozhao Wang, Dingwen Zhang, Ziwei Liu, Wenchao Xu
+ <u>Haosong Peng*</u>, Hao Li*, Jiaqi Chen*, Yuhao Pan*, Runmao Yao, Yalun Dai, Fushuo Huo, Fangzhou Hong, Zhaoxi Chen, Haozhao Wang, Dingwen Zhang, Ziwei Liu, Wenchao Xu
 
 --- 
 
@@ -110,7 +111,7 @@ IEEE Transactions on Services Computing (CCF-A)
 
 ---
 
-Submitted to IEEE Transactions on Computers (CCF-A)
+IEEE Transactions on Computers (CCF-A)
 
 ---
 
@@ -205,6 +206,7 @@ IEEE Transactions on Services Computing (CCF-A)
 
 # 🎖 Honors and Awards
 
+- *2025.06* Outstanding Master Thesis of Beijing Institute of Technology
 - *2024.04* 中国研究生创新实践系列大赛2023年度创新实践之星
 - *2023.12* 第二十届全国研究生数学建模竞赛一等奖，华为专项一等奖，数模之星“全国冠军” （1/19898, Top 0.05%, First in BIT History.）
 - *2023.10* First-class scholarship of Beijing Institute of Technology
@@ -217,20 +219,23 @@ IEEE Transactions on Services Computing (CCF-A)
 
 - *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/), Chongqing.
 
-<!-- # 📚 Skills
+<!-- 
 
-- **Software:** Python, Pytorch, Matlab & Simulink, R, C, Golang, Bash, Linux, Docker, Latex, MS Office
-- **Language:** English (CET-6), Chinese (Native) -->
+- **Software:** Python, Pytorch, Matlab & Simulink, R, C, Golang, Bash, Linux, Docker, Latex, MS Office -->
+
+# 📚 Skills
+
+- **Language:** English (CET-6), IELTS 7.0, Chinese (Native) 
 
 # 👥 Links
 
-- Lab Members
+- Lab Members & Co-authors
   
-  - [Ma Ruifeng](https://ac.ppeak.site/) (BIT)
+  <!-- - [Ma Ruifeng](https://ac.ppeak.site/) (BIT) -->
   - [Qi Tianyu](https://tymiracle.top/) (SYSU)
-  - [Feng Wei](https://github.com/Couteaux123) (BIT)
-- Co-authors
-
+  <!-- - [Feng Wei](https://github.com/Couteaux123) (BIT) -->
+  - [Huo Fusuo](https://cyber.seu.edu.cn/_t1536/2026/0327/c53477a559710/page.htm) (SEU)
+  - [Fan Yunfeng](https://fyf-simon.github.io/) (PolyU)
   - [Li Hao](https://lifuguan.github.io/) (NWPU)
   - [Wu Zhiwei](https://waynewu0526.github.io/) (BIT)
   - [Dai Yalun](https://scholar.google.com/citations?user=6XyNVowAAAAJ&hl=zh-CN&oi=ao) (NTU)

@@ -263,6 +263,14 @@ body:hover .visually-hidden button {
     color: $twitter-color;
   }
 
+  .author__x-icon {
+    color: #000;
+    display: inline-block;
+    height: 1em;
+    vertical-align: -0.125em;
+    width: 1.28571429em;
+  }
+
   .fa-vimeo,
   .fa-vimeo-square {
     color: $vimeo-color;

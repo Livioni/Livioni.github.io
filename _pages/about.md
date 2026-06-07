@@ -39,7 +39,7 @@ I'm now a PhD student at [Division of Integrative Systems and Design](https://is
 
 *2024.10.01 🎉🎉* The paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
 
-# 📝 Publications
+# 📝 Publications 
 
 ## 📜 Articles & Manuscripts (* denotes equal contribution)
 
@@ -87,39 +87,6 @@ I'm now a PhD student at [Division of Integrative Systems and Design](https://is
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Radiant: Efficient Timely Large-Scale Scene Analytics Based on Hierarchical Framework](https://ieeexplore.ieee.org/abstract/document/11425817)**
-
----
-
-IEEE Transactions on Services Computing (CCF-A)
-
----
-
- <u>Haosong Peng*</u>, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**[Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics](https://ieeexplore.ieee.org/abstract/document/11547198)**
-
----
-
-IEEE Transactions on Computers (CCF-A)
-
----
-
- <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
-
-</div>
-</div>
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/dgtr.png' alt="sym" width="100%"></div></div>
 
@@ -138,6 +105,37 @@ Hao Li\*, Yuanyuan Gao\*, <u>Haosong Peng*</u>, Chenming Wu, Weicai Ye, Yufeng Z
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC</div><img src='images/radiant.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Radiant: Efficient Timely Large-Scale Scene Analytics Based on Hierarchical Framework](https://ieeexplore.ieee.org/abstract/document/11425817)**
+
+---
+
+IEEE Transactions on Services Computing (CCF-A)
+
+---
+
+ <u>Haosong Peng*</u>, Tianyu Qi*, Yufeng Zhan, Hao Li, Yalun Dai, Yuanqing Xia
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TC</div><img src='images/arena.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[Arena: A Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics](https://ieeexplore.ieee.org/abstract/document/11547198)**
+
+---
+
+IEEE Transactions on Computers (CCF-A)
+
+---
+
+ <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICDCS 2024</div><img src='images/tangram.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

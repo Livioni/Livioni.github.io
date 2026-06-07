@@ -264,6 +264,11 @@
       text-decoration: underline;
     }
   }
+  .author__x-icon {
+    height: 0.8em;
+    vertical-align: -0.06em;
+    width: 0.8em;
+  }
   @include breakpoint($large) {
     display: none;
   }

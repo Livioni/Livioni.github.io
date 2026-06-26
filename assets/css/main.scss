@@ -87,6 +87,37 @@
 
 }
 
+.publication-toggle-wrap {
+    margin: 1em 0 0;
+}
+
+.publication-toggle {
+    border: 1px solid #00369f;
+    border-radius: 6px;
+    background: #00369f;
+    color: #fff;
+    cursor: pointer;
+    font-size: .9em;
+    font-weight: 600;
+    line-height: 1;
+    padding: .65em 1.1em;
+}
+
+.publication-toggle:hover,
+.publication-toggle:focus {
+    background: #002a7a;
+    border-color: #002a7a;
+}
+
+.publication-toggle:focus {
+    outline: 2px solid #7aa7ff;
+    outline-offset: 2px;
+}
+
+.all-papers-list[hidden] {
+    display: none;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 

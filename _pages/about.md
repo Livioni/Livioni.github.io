@@ -43,6 +43,8 @@ I'm now a PhD student at [Division of Integrative Systems and Design](https://is
 
 ## 📜 Articles & Manuscripts (* denotes equal contribution)
 
+### Selected Papers
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">PrePrint</div><img src='images/spatialbenchteaser.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,6 +89,13 @@ I'm now a PhD student at [Division of Integrative Systems and Design](https://is
 </div>
 
 
+<div class="publication-toggle-wrap">
+  <button class="publication-toggle" type="button" aria-expanded="false" aria-controls="all-papers">
+    All Papers
+  </button>
+</div>
+
+<div id="all-papers" class="all-papers-list" hidden markdown="1">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2025</div><img src='images/dgtr.png' alt="sym" width="100%"></div></div>
 
@@ -171,6 +180,27 @@ IEEE Transactions on Services Computing (CCF-A)
 
 </div>
 </div>
+
+</div>
+
+<script>
+  (function () {
+    var button = document.querySelector('.publication-toggle');
+    var allPapers = document.getElementById('all-papers');
+
+    if (!button || !allPapers) {
+      return;
+    }
+
+    button.addEventListener('click', function () {
+      var isExpanded = button.getAttribute('aria-expanded') === 'true';
+
+      button.setAttribute('aria-expanded', String(!isExpanded));
+      allPapers.hidden = isExpanded;
+      button.textContent = isExpanded ? 'All Papers' : 'Hide All Papers';
+    });
+  })();
+</script>
 
 <!-- - <u>Haosong Peng</u>, Chuge Wu, Yufeng Zhan, Yuanqing Xia. "**[Lore: A Learning-based Approach for Workflow Scheduling in Clouds](https://dl.acm.org/doi/10.1145/3538641.3561487)**" in 2022 International Conference on Research in Adaptive and Convergent Systems. [Talk](https://www.sigapp.org/RACS/RACS2022/acm-racs/details.html?id=14) ｜[Slide](resources/Lore.pdf) -->
 

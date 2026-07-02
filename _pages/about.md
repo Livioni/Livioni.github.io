@@ -53,7 +53,7 @@ I'm now a PhD student at [Division of Integrative Systems and Design](https://is
 
 ---
 
- <u>Haosong Peng*</u>, Hao Li*, Jiaqi Chen*, Yuhao Pan*, Runmao Yao, Yalun Dai, Fushuo Huo, Fangzhou Hong, Zhaoxi Chen, Haozhao Wang, Dingwen Zhang, Ziwei Liu, Wenchao Xu
+ <u>Haosong Peng*</u>, Hao Li\*, Jiaqi Chen\*, Yuhao Pan\*, Runmao Yao, Yalun Dai, Fushuo Huo, Fangzhou Hong, Zhaoxi Chen, Haozhao Wang, Dingwen Zhang, Ziwei Liu, Wenchao Xu
 
 --- 
 

@@ -243,9 +243,9 @@ IEEE Transactions on Services Computing (CCF-A)
 - *2020.10* National Scholarship (Top 1%)
 - *2019.10* National Scholarship(Top 1%)
 
-# 💻 Internships
+<!-- # 💻 Internships -->
 
-- *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/), Chongqing.
+<!-- - *2022.06 - 2022.07*, [China Academy of Information and Communications Technology (CAICT)](http://www.caict.ac.cn/), Chongqing. -->
 
 <!-- 
 
@@ -264,6 +264,7 @@ IEEE Transactions on Services Computing (CCF-A)
   <!-- - [Feng Wei](https://github.com/Couteaux123) (BIT) -->
   - [Huo Fusuo](https://cyber.seu.edu.cn/_t1536/2026/0327/c53477a559710/page.htm) (SEU)
   - [Fan Yunfeng](https://fyf-simon.github.io/) (PolyU)
+  - [Zheng Peirong](https://zhengpeirong.github.io/) (PolyU)
   - [Li Hao](https://lifuguan.github.io/) (NWPU)
   - [Wu Zhiwei](https://waynewu0526.github.io/) (BIT)
-  - [Dai Yalun](https://scholar.google.com/citations?user=6XyNVowAAAAJ&hl=zh-CN&oi=ao) (NTU)
+  - [Dai Yalun](https://dai818.github.io/) (NTU)

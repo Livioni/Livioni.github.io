@@ -46,7 +46,7 @@ I'm now a PhD student at [Division of Integrative Systems and Design](https://is
 ### Selected Papers
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PrePrint</div><img src='images/spatialbenchteaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">Preprint</div><video class="paper-media" autoplay muted loop playsinline preload="auto" poster="images/spatialbench-cover.jpg" data-publication-autoplay aria-label="SpatialBench video preview"><source src="resources/videos/spatialbench.mp4" type="video/mp4"><img src="images/spatialbench-cover.jpg" alt="SpatialBench preview"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[SpatialBench: Is your spatial foundation model an all-round player?](https://arxiv.org/abs/2605.27367)**
@@ -57,15 +57,16 @@ I'm now a PhD student at [Division of Integrative Systems and Design](https://is
 
 --- 
 
-<span style="display: inline-flex; gap: 2.5rem;">
-  <a href="https://ropedia.github.io/SpatialBench/">Homepage</a>
-  <a href="https://github.com/Ropedia/SpatialBench">Code</a>
-</span>
+<nav class="paper-links" aria-label="SpatialBench resources">
+  <a class="paper-link" href="https://ropedia.github.io/SpatialBench/" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe" aria-hidden="true"></i><span>Homepage</span></a>
+  <a class="paper-link paper-link-github" href="https://github.com/Ropedia/SpatialBench" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span><span class="paper-link-stars" aria-label="117 GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span class="github-star-count" data-github-repo="Ropedia/SpatialBench">117</span></span></a>
+  <a class="paper-link paper-link-huggingface" href="https://huggingface.co/datasets/ropedia-ai/SpatialBenchmark" target="_blank" rel="noopener noreferrer" aria-label="SpatialBench benchmark dataset on Hugging Face"><i class="fas fa-database" aria-hidden="true"></i><span>Benchmark</span></a>
+</nav>
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR2026</div><img src='images/omnivggt.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">CVPR 2026</div><img class="paper-media" src='images/omnivggt.png' alt="OmniVGGT teaser" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer](https://arxiv.org/abs/2511.10560)**
@@ -80,20 +81,15 @@ I'm now a PhD student at [Division of Integrative Systems and Design](https://is
 
 --- 
 
-<span style="display: inline-flex; gap: 2.5rem;">
-  <a href="https://livioni.github.io/OmniVGGT-official/">Homepage</a>
-  <a href="https://github.com/Livioni/OmniVGGT-official">Code</a>
-</span>
+<nav class="paper-links" aria-label="OmniVGGT resources">
+  <a class="paper-link" href="https://livioni.github.io/OmniVGGT-official/" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe" aria-hidden="true"></i><span>Homepage</span></a>
+  <a class="paper-link paper-link-github" href="https://github.com/Livioni/OmniVGGT-official" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span><span class="paper-link-stars" aria-label="355 GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span class="github-star-count" data-github-repo="Livioni/OmniVGGT-official">355</span></span></a>
+  <a class="paper-link paper-link-huggingface" href="https://huggingface.co/Livioni/OmniVGGT" target="_blank" rel="noopener noreferrer" aria-label="OmniVGGT checkpoint on Hugging Face"><i class="fas fa-cube" aria-hidden="true"></i><span>Checkpoint</span></a>
+</nav>
 
 </div>
 </div>
 
-
-<div class="publication-toggle-wrap">
-  <button class="publication-toggle" type="button" aria-expanded="false" aria-controls="all-papers">
-    All Papers
-  </button>
-</div>
 
 <div id="all-papers" class="all-papers-list" hidden markdown="1">
 
@@ -183,21 +179,110 @@ IEEE Transactions on Services Computing (CCF-A)
 
 </div>
 
+<div class="publication-toggle-wrap">
+  <button class="publication-toggle" type="button" aria-expanded="false" aria-controls="all-papers">
+    <span class="publication-toggle-label">All Papers</span>
+    <span class="publication-toggle-meta">5 more</span>
+    <i class="fas fa-chevron-down" aria-hidden="true"></i>
+  </button>
+</div>
+
 <script>
   (function () {
     var button = document.querySelector('.publication-toggle');
     var allPapers = document.getElementById('all-papers');
+    var toggleWrap = document.querySelector('.publication-toggle-wrap');
+    var buttonLabel = button && button.querySelector('.publication-toggle-label');
+    var buttonMeta = button && button.querySelector('.publication-toggle-meta');
+    var reducedMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
-    if (!button || !allPapers) {
-      return;
+    if (button && allPapers && toggleWrap && buttonLabel && buttonMeta) {
+      var remainingPaperCount = allPapers.querySelectorAll('.paper-box').length;
+      var collapsedMeta = remainingPaperCount + ' more';
+
+      allPapers.hidden = false;
+      allPapers.classList.add('is-collapsed');
+      allPapers.setAttribute('aria-hidden', 'true');
+      allPapers.setAttribute('inert', '');
+      buttonMeta.textContent = collapsedMeta;
+
+      button.addEventListener('click', function () {
+        var isExpanded = button.getAttribute('aria-expanded') === 'true';
+        var willExpand = !isExpanded;
+
+        button.setAttribute('aria-expanded', String(willExpand));
+        allPapers.classList.toggle('is-collapsed', !willExpand);
+        allPapers.classList.toggle('is-expanded', willExpand);
+        allPapers.setAttribute('aria-hidden', String(!willExpand));
+        toggleWrap.classList.toggle('is-expanded', willExpand);
+        buttonLabel.textContent = willExpand ? 'Show Selected Only' : 'All Papers';
+        buttonMeta.textContent = willExpand ? 'collapse' : collapsedMeta;
+
+        if (willExpand) {
+          allPapers.removeAttribute('inert');
+        } else {
+          allPapers.setAttribute('inert', '');
+          button.scrollIntoView({ behavior: reducedMotion ? 'auto' : 'smooth', block: 'center' });
+        }
+      });
     }
 
-    button.addEventListener('click', function () {
-      var isExpanded = button.getAttribute('aria-expanded') === 'true';
+    var autoplayVideo = document.querySelector('video[data-publication-autoplay]');
+    if (autoplayVideo) {
+      autoplayVideo.muted = true;
+      autoplayVideo.defaultMuted = true;
+      autoplayVideo.playsInline = true;
 
-      button.setAttribute('aria-expanded', String(!isExpanded));
-      allPapers.hidden = isExpanded;
-      button.textContent = isExpanded ? 'All Papers' : 'Hide All Papers';
+      var startAutoplayVideo = function () {
+        var playAttempt = autoplayVideo.play();
+        if (playAttempt && typeof playAttempt.catch === 'function') {
+          playAttempt.catch(function () {
+            // The first frame poster remains visible if a browser blocks autoplay.
+          });
+        }
+      };
+
+      if (autoplayVideo.readyState >= 2) {
+        startAutoplayVideo();
+      } else {
+        autoplayVideo.addEventListener('canplay', startAutoplayVideo, { once: true });
+      }
+
+      document.addEventListener('visibilitychange', function () {
+        if (!document.hidden && autoplayVideo.paused) {
+          startAutoplayVideo();
+        }
+      });
+    }
+
+    var starCounts = document.querySelectorAll('.github-star-count[data-github-repo]');
+    Array.prototype.forEach.call(starCounts, function (starCount) {
+      var repo = starCount.getAttribute('data-github-repo');
+
+      fetch('https://api.github.com/repos/' + repo, {
+        headers: { Accept: 'application/vnd.github+json' }
+      })
+        .then(function (response) {
+          if (!response.ok) {
+            throw new Error('GitHub request failed');
+          }
+          return response.json();
+        })
+        .then(function (repoData) {
+          var count = repoData.stargazers_count;
+          var formattedCount = count >= 1000
+            ? new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 }).format(count)
+            : String(count);
+          var starGroup = starCount.closest('.paper-link-stars');
+
+          starCount.textContent = formattedCount;
+          if (starGroup) {
+            starGroup.setAttribute('aria-label', count + ' GitHub stars');
+          }
+        })
+        .catch(function () {
+          // Keep the server-fetched fallback count already rendered in the page.
+        });
     });
   })();
 </script>
@@ -253,18 +338,20 @@ IEEE Transactions on Services Computing (CCF-A)
 
 # 📚 Skills
 
-- **Language:** English (CET-6), IELTS 7.0, Chinese (Native) 
+- **Language:** English (CET-6), IELTS 7.0, Mandarin (Native)
 
 # 👥 Links
 
-- Lab Members & Co-authors
-  
-  <!-- - [Ma Ruifeng](https://ac.ppeak.site/) (BIT) -->
-  - [Qi Tianyu](https://tymiracle.top/) (SYSU)
-  <!-- - [Feng Wei](https://github.com/Couteaux123) (BIT) -->
-  - [Huo Fusuo](https://cyber.seu.edu.cn/_t1536/2026/0327/c53477a559710/page.htm) (SEU)
-  - [Fan Yunfeng](https://fyf-simon.github.io/) (PolyU)
-  - [Zheng Peirong](https://zhengpeirong.github.io/) (PolyU)
-  - [Li Hao](https://lifuguan.github.io/) (NWPU)
-  - [Wu Zhiwei](https://waynewu0526.github.io/) (BIT)
-  - [Dai Yalun](https://dai818.github.io/) (NTU)
+<div class="links-list">
+  <div class="links-list-title"><i class="fas fa-users" aria-hidden="true"></i> Lab Members &amp; Co-authors</div>
+  <ul>
+    <li><a href="https://tymiracle.top/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/sysu.png" alt=""></span><span class="collaborator-name">Qi Tianyu</span></a><span class="collaborator-affiliation">SYSU</span></li>
+    <li><a href="https://cyber.seu.edu.cn/_t1536/2026/0327/c53477a559710/page.htm" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/seu.jpeg" alt=""></span><span class="collaborator-name">Huo Fusuo</span></a><span class="collaborator-affiliation">SEU</span></li>
+    <li><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=8nrJ1vsAAAAJ" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/nus_logo.jpg" alt=""></span><span class="collaborator-name">Zhang Zhengshen</span></a><span class="collaborator-affiliation">NUS</span></li>
+    <li><a href="https://fyf-simon.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/PolyU.jpg" alt=""></span><span class="collaborator-name">Fan Yunfeng</span></a><span class="collaborator-affiliation">PolyU</span></li>
+    <li><a href="https://zhengpeirong.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/PolyU.jpg" alt=""></span><span class="collaborator-name">Zheng Peirong</span></a><span class="collaborator-affiliation">PolyU</span></li>
+    <li><a href="https://lifuguan.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/NTU_Logo.jpg" alt=""></span><span class="collaborator-name">Li Hao</span></a><span class="collaborator-affiliation">NTU</span></li>
+    <li><a href="https://waynewu0526.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/bit.png" alt=""></span><span class="collaborator-name">Wu Zhiwei</span></a><span class="collaborator-affiliation">BIT</span></li>
+    <li><a href="https://dai818.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/NTU_Logo.jpg" alt=""></span><span class="collaborator-name">Dai Yalun</span></a><span class="collaborator-affiliation">NTU</span></li>
+  </ul>
+</div>

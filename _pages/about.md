@@ -18,26 +18,35 @@ redirect_from:
 
 # 👨‍🎓 About Me
 
-I'm now a PhD student at [Division of Integrative Systems and Design](https://isd.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/). My supervisor is [Prof. Xu Wenchao](https://huasion23.github.io/). Before that, I was a post-graduate student at X-NS Lab, [Automation School](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Zhan Yufeng](https://ray-zhan.github.io/). I received B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm).  My research interests include 3D Vision, Embodied Intelligence, and Edge Intelligence.
+<div class="about-summary" markdown="1">
+
+I am currently a PhD student at the [Division of Integrative Systems and Design](https://isd.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/), supervised by [Prof. Wenchao Xu](https://huasion23.github.io/). Before that, I was a postgraduate student at X-NS Lab, [School of Automation](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Yufeng Zhan](https://ray-zhan.github.io/). I received my B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm). My research interests include 3D Vision, Embodied Intelligence, and Edge Intelligence.
 
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
+</div>
+
 # 🔥 News
+
+<div class="news-list" markdown="1">
+
 *2026.05.31 🎉🎉* The paper “*Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics*” has been accepted in IEEE Transactions on Computers (CCF-A).
 
-*2026.05.26 🎉🎉* We release a 3D geometry foundation model benchmark with Ropedia and NTU: "*[SpatialBench: Is your spatial foundation model an all-round player?](https://arxiv.org/abs/2605.27367)*", take a look!
+*2026.05.26 🎉🎉* We released a 3D geometry foundation model benchmark with Ropedia and NTU: "*[SpatialBench: Is your spatial foundation model an all-round player?](https://arxiv.org/abs/2605.27367)*". Take a look!
 
 *2026.02.28 🎉🎉* The paper “*Radiant: Efficient Timely Large-Scale Scene Analytics Based on Hierarchical Framework*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
 
-*2026.02.22 🎉🎉* The paper “*OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer*” has been accepted in CVPR2026 (CCF-A).
+*2026.02.22 🎉🎉* The paper “*OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer*” has been accepted at CVPR 2026 (CCF-A).
 
 *2026.02.01 🎉🎉* Started my Ph.D. program at Division of Integrative Systems and Design, HKUST.
 
-*2025.11.03 🎉🎉* Joined in the Division of Integrative Systems and Design, HKUST as a research assistant.
+*2025.11.03 🎉🎉* Joined the Division of Integrative Systems and Design, HKUST, as a research assistant.
 
 *2025.01.28 🎉🎉* The paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B).
 
 *2024.10.01 🎉🎉* The paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
+
+</div>
 
 # 📝 Publications 
 
@@ -307,17 +316,23 @@ IEEE Transactions on Services Computing (CCF-A)
 - 一种视频分析边缘计算加速方法、装置、介质及产品,（已受理，除导师外第一发明人）
 - 一种基于图神经网络的 LRA 调度方法、设备及介质（已受理，除导师外第三发明人） -->
 
-# 📖 Educations
+# 📖 Education
 
-- *2026.02 - 2029.02 (expected)*, Phd Student, Division of Integrative Systems and Design, HKUST, Hong Kong SAR
+<div class="timeline-list" markdown="1">
+
+- *2026.02 - 2029.02 (expected)*, PhD Student, Division of Integrative Systems and Design, HKUST, Hong Kong SAR
 - *2025.09 - 2026.01*, Research Assistant, Division of Integrative Systems and Design, HKUST, Hong Kong SAR
 - *2022.09 - 2025.06*, Postgraduate, Automation School, Beijing Institute of Technology, Beijing
-- *2018.09 - 2022.06*, Undergraduate, the College of Information Science and Technology, Beijing University of Chemical and Technology, Beijing
+- *2018.09 - 2022.06*, Undergraduate, College of Information Science and Technology, Beijing University of Chemical Technology, Beijing
 
   **Rank: 1/153** \| **GPA: 4.07/4.33**
+
+</div>
 <!-- - *2015.09-2018.06*, Chongqing Yucai High School, Chongqing -->
 
 # 🎖 Honors and Awards
+
+<div class="timeline-list honor-list" markdown="1">
 
 - *2025.06* Outstanding Master Thesis of Beijing Institute of Technology
 - *2024.04* 中国研究生创新实践系列大赛2023年度创新实践之星
@@ -326,7 +341,9 @@ IEEE Transactions on Services Computing (CCF-A)
 - *2022.06* Outstanding Graduates of Beijing
 - *2022.06* Outstanding Graduation Project of Beijing University of Chemical Technology
 - *2020.10* National Scholarship (Top 1%)
-- *2019.10* National Scholarship(Top 1%)
+- *2019.10* National Scholarship (Top 1%)
+
+</div>
 
 <!-- # 💻 Internships -->
 
@@ -338,7 +355,11 @@ IEEE Transactions on Services Computing (CCF-A)
 
 # 📚 Skills
 
+<div class="skills-list" markdown="1">
+
 - **Language:** English (CET-6), IELTS 7.0, Mandarin (Native)
+
+</div>
 
 # 👥 Links
 

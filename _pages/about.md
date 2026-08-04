@@ -54,6 +54,26 @@ I am currently a PhD student at the [Division of Integrative Systems and Design]
 
 ### Selected Papers
 
+<div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">Preprint</div><video class="paper-media" autoplay muted loop playsinline preload="auto" poster="images/world2wrist.png" data-publication-autoplay aria-label="World-to-Wrist video preview"><source src="resources/videos/world-to-wrist.mp4" type="video/mp4"><img src="images/world2wrist.png" alt="World-to-Wrist preview"></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation](https://yyyyu120.github.io/W2-VLA/)**
+
+---
+
+
+Yuhao Pan*,  <u>Haosong Peng*</u>, Zhengshen Zhang, Zhengyang Yan, Yalun Dai, Fushuo Huo, Chujie Wang, Tianyu Qi, xiucheng wang, Nan Cheng, Wenchao Xu
+
+---
+
+<nav class="paper-links" aria-label="World-to-Wrist resources">
+  <a class="paper-link" href="https://yyyyu120.github.io/W2-VLA/" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe" aria-hidden="true"></i><span>Homepage</span></a>
+  <a class="paper-link paper-link-github" href="https://github.com/yyyyu120/W2-VLA" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span><span class="paper-link-stars" aria-label="GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span class="github-star-count" data-github-repo="yyyyu120/W2-VLA">—</span></span></a>
+  <span class="paper-link paper-link-model paper-link-disabled" aria-label="World-to-Wrist model coming soon" aria-disabled="true"><i class="fas fa-cube" aria-hidden="true"></i><span>Model</span></span>
+</nav>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">Preprint</div><video class="paper-media" autoplay muted loop playsinline preload="auto" poster="images/spatialbench-cover.jpg" data-publication-autoplay aria-label="SpatialBench video preview"><source src="resources/videos/spatialbench.mp4" type="video/mp4"><img src="images/spatialbench-cover.jpg" alt="SpatialBench preview"></video></div></div>
 <div class='paper-box-text' markdown="1">
@@ -367,9 +387,9 @@ IEEE Transactions on Services Computing (CCF-A)
   <div class="links-list-title"><i class="fas fa-users" aria-hidden="true"></i> Lab Members &amp; Co-authors</div>
   <ul>
     <li><a href="https://tymiracle.top/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/sysu.png" alt=""></span><span class="collaborator-name">Qi Tianyu</span></a><span class="collaborator-affiliation">SYSU</span></li>
-    <li><a href="https://cyber.seu.edu.cn/_t1536/2026/0327/c53477a559710/page.htm" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/seu.jpeg" alt=""></span><span class="collaborator-name">Huo Fusuo</span></a><span class="collaborator-affiliation">SEU</span></li>
-    <li><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=8nrJ1vsAAAAJ" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/nus_logo.jpg" alt=""></span><span class="collaborator-name">Zhang Zhengshen</span></a><span class="collaborator-affiliation">NUS</span></li>
-    <li><a href="https://fyf-simon.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/PolyU.jpg" alt=""></span><span class="collaborator-name">Fan Yunfeng</span></a><span class="collaborator-affiliation">PolyU</span></li>
+    <li><a href="https://cyber.seu.edu.cn/_t1536/2026/0327/c53477a559710/page.htm" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/seu.jpeg" alt=""></span><span class="collaborator-name">Prof. Huo Fusuo</span></a><span class="collaborator-affiliation">SEU</span></li>
+    <li><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=8nrJ1vsAAAAJ" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/nus_logo.jpg" alt=""></span><span class="collaborator-name">Dr. Zhang Zhengshen</span></a><span class="collaborator-affiliation">NUS</span></li>
+    <li><a href="https://fyf-simon.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/PolyU.jpg" alt=""></span><span class="collaborator-name">Dr. Fan Yunfeng</span></a><span class="collaborator-affiliation">PolyU</span></li>
     <li><a href="https://zhengpeirong.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/PolyU.jpg" alt=""></span><span class="collaborator-name">Zheng Peirong</span></a><span class="collaborator-affiliation">PolyU</span></li>
     <li><a href="https://lifuguan.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/NTU_Logo.jpg" alt=""></span><span class="collaborator-name">Li Hao</span></a><span class="collaborator-affiliation">NTU</span></li>
     <li><a href="https://waynewu0526.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/bit.png" alt=""></span><span class="collaborator-name">Wu Zhiwei</span></a><span class="collaborator-affiliation">BIT</span></li>

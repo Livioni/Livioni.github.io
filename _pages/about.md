@@ -62,7 +62,7 @@ I am currently a PhD student at the [Division of Integrative Systems and Design]
 ---
 
 
-Yuhao Pan*,  <u>Haosong Peng*</u>, Zhengshen Zhang, Zhengyang Yan, Yalun Dai, Fushuo Huo, Chujie Wang, Tianyu Qi, xiucheng wang, Nan Cheng, Wenchao Xu
+Yuhao Pan*,  <u>Haosong Peng*</u>, Zhengshen Zhang, Zhengyang Yan, Yalun Dai, Fushuo Huo, Chujie Wang, Tianyu Qi, Xiucheng Wang, Nan Cheng, Wenchao Xu
 
 ---
 

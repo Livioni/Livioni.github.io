@@ -57,7 +57,7 @@ I am currently a PhD student at the [Division of Integrative Systems and Design]
 <div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">Preprint</div><video class="paper-media" autoplay muted loop playsinline preload="auto" poster="images/world2wrist.png" data-publication-autoplay aria-label="World-to-Wrist video preview"><source src="resources/videos/world-to-wrist.mp4" type="video/mp4"><img src="images/world2wrist.png" alt="World-to-Wrist preview"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation](https://yyyyu120.github.io/W2-VLA/)**
+**[World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation](https://arxiv.org/abs/2608.05369)**
 
 ---
 

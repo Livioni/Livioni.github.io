@@ -30,6 +30,8 @@ I am currently a PhD student at the [Division of Integrative Systems and Design]
 
 <div class="news-list" markdown="1">
 
+*2026.08.07 🎉🎉* We released a World-to-Wrist VLA model with NUS and NTU: "*[World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation](https://arxiv.org/abs/2608.05369)*". Take a look!
+
 *2026.05.31 🎉🎉* The paper “*Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics*” has been accepted in IEEE Transactions on Computers (CCF-A).
 
 *2026.05.26 🎉🎉* We released a 3D geometry foundation model benchmark with Ropedia and NTU: "*[SpatialBench: Is your spatial foundation model an all-round player?](https://arxiv.org/abs/2605.27367)*". Take a look!
@@ -44,7 +46,7 @@ I am currently a PhD student at the [Division of Integrative Systems and Design]
 
 *2025.01.28 🎉🎉* The paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B).
 
-*2024.10.01 🎉🎉* The paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A).
+<!-- *2024.10.01 🎉🎉* The paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A). -->
 
 </div>
 
@@ -69,7 +71,8 @@ Yuhao Pan*,  <u>Haosong Peng*</u>, Zhengshen Zhang, Zhengyang Yan, Yalun Dai, Fu
 <nav class="paper-links" aria-label="World-to-Wrist resources">
   <a class="paper-link" href="https://yyyyu120.github.io/W2-VLA/" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe" aria-hidden="true"></i><span>Homepage</span></a>
   <a class="paper-link paper-link-github" href="https://github.com/yyyyu120/W2-VLA" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span><span class="paper-link-stars" aria-label="GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span class="github-star-count" data-github-repo="yyyyu120/W2-VLA">—</span></span></a>
-  <span class="paper-link paper-link-model paper-link-disabled" aria-label="World-to-Wrist model coming soon" aria-disabled="true"><i class="fas fa-cube" aria-hidden="true"></i><span>Model</span></span>
+  <a class="paper-link paper-link-model" href="https://huggingface.co/yuuu94/W2-VLA" target="_blank" rel="noopener noreferrer" aria-label="World-to-Wrist model on Hugging Face"><i class="fas fa-cube" aria-hidden="true"></i><span>Model</span></a>
+  <a class="paper-link paper-link-huggingface" href="https://huggingface.co/datasets/yuuu94/W2-VLA-Training-Data" target="_blank" rel="noopener noreferrer" aria-label="World-to-Wrist training dataset on Hugging Face"><i class="fas fa-database" aria-hidden="true"></i><span>Dataset</span></a>
 </nav>
 
 </div>
@@ -113,7 +116,7 @@ Yuhao Pan*,  <u>Haosong Peng*</u>, Zhengshen Zhang, Zhengyang Yan, Yalun Dai, Fu
 <nav class="paper-links" aria-label="OmniVGGT resources">
   <a class="paper-link" href="https://livioni.github.io/OmniVGGT-official/" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe" aria-hidden="true"></i><span>Homepage</span></a>
   <a class="paper-link paper-link-github" href="https://github.com/Livioni/OmniVGGT-official" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span><span class="paper-link-stars" aria-label="355 GitHub stars"><i class="fas fa-star" aria-hidden="true"></i><span class="github-star-count" data-github-repo="Livioni/OmniVGGT-official">355</span></span></a>
-  <a class="paper-link paper-link-huggingface" href="https://huggingface.co/Livioni/OmniVGGT" target="_blank" rel="noopener noreferrer" aria-label="OmniVGGT checkpoint on Hugging Face"><i class="fas fa-cube" aria-hidden="true"></i><span>Checkpoint</span></a>
+  <a class="paper-link paper-link-model" href="https://huggingface.co/Livioni/OmniVGGT" target="_blank" rel="noopener noreferrer" aria-label="OmniVGGT model on Hugging Face"><i class="fas fa-cube" aria-hidden="true"></i><span>Model</span></a>
 </nav>
 
 </div>

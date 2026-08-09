@@ -532,18 +532,6 @@ body {
     }
 }
 
-.paper-link-disabled {
-    cursor: default;
-    opacity: .62;
-}
-
-.paper-link-disabled:hover {
-    background: #f3f0ff;
-    border-color: #d7cef5;
-    box-shadow: none;
-    transform: none;
-}
-
 .all-papers-list {
     overflow: hidden;
     transition: max-height .7s cubic-bezier(.22, 1, .36, 1), opacity .35s ease;

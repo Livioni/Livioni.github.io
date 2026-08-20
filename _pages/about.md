@@ -22,6 +22,8 @@ redirect_from:
 
 I am currently a PhD student at the [Division of Integrative Systems and Design](https://isd.hkust.edu.hk/), [HKUST](https://hkust.edu.hk/), supervised by [Prof. Wenchao Xu](https://huasion23.github.io/). Before that, I was a postgraduate student at X-NS Lab, [School of Automation](https://ac.bit.edu.cn/), [Beijing Institute of Technology](https://english.bit.edu.cn/), supervised by [A.P. Yufeng Zhan](https://ray-zhan.github.io/). I received my B.Eng. degree from the [College of Information Science and Technology](https://en-cist.buct.edu.cn/main.htm), [Beijing University of Chemical Technology](https://english.buct.edu.cn/main.htm). My research interests include 3D Vision, Embodied Intelligence, and Edge Intelligence.
 
+Open for long-term internship opportunities in Embodied Intelligence.
+
 *The people who are crazy enough to think that they can change the world are the ones who do. ——Steve Jobs*
 
 </div>
@@ -169,7 +171,7 @@ IEEE Transactions on Computers (CCF-A)
 
 ---
 
- <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Qihua Zhou, Yuanqing Xia
+ <u>Haosong Peng*</u>, Wei Feng*, Hao Li, Yufeng Zhan, Ren Jin, Yuanqing Xia
 
 </div>
 </div>

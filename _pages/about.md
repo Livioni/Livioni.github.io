@@ -32,6 +32,8 @@ Open for long-term internship opportunities in Embodied Intelligence.
 
 <div class="news-list" markdown="1">
 
+*2026.09.25 🎉🎉* The paper "*[SpatialBench: Is your spatial foundation model an all-round player?](https://arxiv.org/abs/2605.27367)*" has been accepted in NeurIPS 2026 Evaluations and Datasets Track, thank all the authors!
+
 *2026.08.07 🎉🎉* We released a World-to-Wrist VLA model with NUS and NTU: "*[World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation](https://arxiv.org/abs/2608.05369)*". Take a look!
 
 *2026.05.31 🎉🎉* The paper “*Patch-of-Interest ViT Inference Acceleration System for Edge-Assisted Video Analytics*” has been accepted in IEEE Transactions on Computers (CCF-A).
@@ -46,7 +48,7 @@ Open for long-term internship opportunities in Embodied Intelligence.
 
 *2025.11.03 🎉🎉* Joined the Division of Integrative Systems and Design, HKUST, as a research assistant.
 
-*2025.01.28 🎉🎉* The paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B).
+<!-- *2025.01.28 🎉🎉* The paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B). -->
 
 <!-- *2024.10.01 🎉🎉* The paper “*Egret: Reinforcement Mechanism for Sequential Computation Offloading in Edge Computing*” has been accepted in IEEE Transactions on Services Computing (CCF-A). -->
 
@@ -80,10 +82,14 @@ Yuhao Pan*,  <u>Haosong Peng*</u>, Zhengshen Zhang, Zhengyang Yan, Yalun Dai, Fu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">Preprint</div><video class="paper-media" autoplay muted loop playsinline preload="auto" poster="images/spatialbench-cover.jpg" data-publication-autoplay aria-label="SpatialBench video preview"><source src="resources/videos/spatialbench.mp4" type="video/mp4"><img src="images/spatialbench-cover.jpg" alt="SpatialBench preview"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">NeurIPS 2026</div><video class="paper-media" autoplay muted loop playsinline preload="auto" poster="images/spatialbench-cover.jpg" data-publication-autoplay aria-label="SpatialBench video preview"><source src="resources/videos/spatialbench.mp4" type="video/mp4"><img src="images/spatialbench-cover.jpg" alt="SpatialBench preview"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[SpatialBench: Is your spatial foundation model an all-round player?](https://arxiv.org/abs/2605.27367)**
+
+---
+
+2026 NeurIPS Evaluations and Datasets Track (CCF-A) 
 
 ---
 
@@ -392,7 +398,7 @@ IEEE Transactions on Services Computing (CCF-A)
   <div class="links-list-title"><i class="fas fa-users" aria-hidden="true"></i> Lab Members &amp; Co-authors</div>
   <ul>
     <li><a href="https://tymiracle.top/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/sysu.png" alt=""></span><span class="collaborator-name">Qi Tianyu</span></a><span class="collaborator-affiliation">SYSU</span></li>
-    <li><a href="https://cyber.seu.edu.cn/_t1536/2026/0327/c53477a559710/page.htm" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/seu.jpeg" alt=""></span><span class="collaborator-name">Prof. Huo Fusuo</span></a><span class="collaborator-affiliation">SEU</span></li>
+    <li><a href="https://cyber.seu.edu.cn/hfs/list.htm" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/seu.jpeg" alt=""></span><span class="collaborator-name">Prof. Huo Fusuo</span></a><span class="collaborator-affiliation">SEU</span></li>
     <li><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=8nrJ1vsAAAAJ" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/nus_logo.jpg" alt=""></span><span class="collaborator-name">Dr. Zhang Zhengshen</span></a><span class="collaborator-affiliation">NUS</span></li>
     <li><a href="https://fyf-simon.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/PolyU.jpg" alt=""></span><span class="collaborator-name">Dr. Fan Yunfeng</span></a><span class="collaborator-affiliation">PolyU</span></li>
     <li><a href="https://zhengpeirong.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/PolyU.jpg" alt=""></span><span class="collaborator-name">Zheng Peirong</span></a><span class="collaborator-affiliation">PolyU</span></li>

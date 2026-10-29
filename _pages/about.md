@@ -397,13 +397,14 @@ IEEE Transactions on Services Computing (CCF-A)
 <div class="links-list">
   <div class="links-list-title"><i class="fas fa-users" aria-hidden="true"></i> Lab Members &amp; Co-authors</div>
   <ul>
+    <li><a href="https://yyyyu120.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="images/hkust.png" alt=""></span><span class="collaborator-name">Pan Yuhao</span></a><span class="collaborator-affiliation">HKUST</span></li>
     <li><a href="https://tymiracle.top/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/sysu.png" alt=""></span><span class="collaborator-name">Qi Tianyu</span></a><span class="collaborator-affiliation">SYSU</span></li>
     <li><a href="https://cyber.seu.edu.cn/hfs/list.htm" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/seu.jpeg" alt=""></span><span class="collaborator-name">Prof. Huo Fusuo</span></a><span class="collaborator-affiliation">SEU</span></li>
     <li><a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=8nrJ1vsAAAAJ" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/nus_logo.jpg" alt=""></span><span class="collaborator-name">Dr. Zhang Zhengshen</span></a><span class="collaborator-affiliation">NUS</span></li>
     <li><a href="https://fyf-simon.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/PolyU.jpg" alt=""></span><span class="collaborator-name">Dr. Fan Yunfeng</span></a><span class="collaborator-affiliation">PolyU</span></li>
     <li><a href="https://zhengpeirong.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/PolyU.jpg" alt=""></span><span class="collaborator-name">Zheng Peirong</span></a><span class="collaborator-affiliation">PolyU</span></li>
     <li><a href="https://lifuguan.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/NTU_Logo.jpg" alt=""></span><span class="collaborator-name">Li Hao</span></a><span class="collaborator-affiliation">NTU</span></li>
-    <li><a href="https://waynewu0526.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/bit.png" alt=""></span><span class="collaborator-name">Wu Zhiwei</span></a><span class="collaborator-affiliation">BIT</span></li>
+    <!-- <li><a href="https://waynewu0526.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/bit.png" alt=""></span><span class="collaborator-name">Wu Zhiwei</span></a><span class="collaborator-affiliation">BIT</span></li> -->
     <li><a href="https://dai818.github.io/" target="_blank" rel="noopener noreferrer"><span class="institution-logo"><img src="resources/logos/NTU_Logo.jpg" alt=""></span><span class="collaborator-name">Dai Yalun</span></a><span class="collaborator-affiliation">NTU</span></li>
   </ul>
 </div>

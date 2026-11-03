@@ -12,8 +12,10 @@ url                      : "https://livioni.github.io"
 repository               : "Livioni/Livioni.github.io"
 google_scholar_stats_use_cdn : false
 
-# google analytics
-google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
+# Google Analytics 4: private reports at https://analytics.google.com/
+# Set your G-XXXXXXXXXX measurement ID to enable production tracking.
+# Setup and verification: docs/analytics-setup.md
+google_analytics_id      : "G-QKNES56DGW"
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about

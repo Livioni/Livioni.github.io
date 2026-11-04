@@ -32,6 +32,8 @@ Open for long-term internship opportunities in Embodied Intelligence.
 
 <div class="news-list" markdown="1">
 
+*2026.11.04 🎉🎉* We released "*[YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction](https://arxiv.org/abs/2611.05280)*", together with the [dataset](https://huggingface.co/datasets/wsy-w1k/YANAMI_Dataset) and [benchmark](https://huggingface.co/datasets/wsy-w1k/YANAMI_Bench). Check out the [project page](https://rowletqwq.github.io/YANAMI/)!
+
 *2026.09.25 🎉🎉* The paper "*[SpatialBench: Is your spatial foundation model an all-round player?](https://arxiv.org/abs/2605.27367)*" has been accepted in NeurIPS 2026 Evaluations and Datasets Track, thank all the authors!
 
 *2026.08.07 🎉🎉* We released a World-to-Wrist VLA model with NUS and NTU: "*[World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation](https://arxiv.org/abs/2608.05369)*". Take a look!
@@ -46,7 +48,7 @@ Open for long-term internship opportunities in Embodied Intelligence.
 
 *2026.02.01 🎉🎉* Started my Ph.D. program at Division of Integrative Systems and Design, HKUST.
 
-*2025.11.03 🎉🎉* Joined the Division of Integrative Systems and Design, HKUST, as a research assistant.
+<!-- *2025.11.03 🎉🎉* Joined the Division of Integrative Systems and Design, HKUST, as a research assistant. -->
 
 <!-- *2025.01.28 🎉🎉* The paper “*DGTR: Distributed Gaussian Turbo-Reconstruction for Sparse-View Vast Scenes*” has been accepted in IEEE International Conference on Robotics and Automation (CCF-B). -->
 
@@ -59,6 +61,26 @@ Open for long-term internship opportunities in Embodied Intelligence.
 ## 📜 Articles & Manuscripts (* denotes equal contribution)
 
 ### Selected Papers
+
+<div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">Preprint</div><img class="paper-media" src="images/yanami_teaser.png" alt="YANAMI dataset and benchmark teaser" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**[YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction](https://arxiv.org/abs/2611.05280)**
+
+---
+
+Shengyu Wang\*, Tengyue Nong\*, Junming Liu\*, <u>Haosong Peng*</u>, Siyu Li\*, Ruiqi Lei, Fushuo Huo, Yuhao Pan, Yunfeng Fan, Ding Wang, Nan Cheng, Haozhao Wang, Wenchao Xu
+
+---
+
+<nav class="paper-links" aria-label="YANAMI resources">
+  <a class="paper-link" href="https://rowletqwq.github.io/YANAMI/" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe" aria-hidden="true"></i><span>Homepage</span></a>
+  <a class="paper-link paper-link-huggingface" href="https://huggingface.co/datasets/wsy-w1k/YANAMI_Bench" target="_blank" rel="noopener noreferrer" aria-label="YANAMI benchmark on Hugging Face"><i class="fas fa-database" aria-hidden="true"></i><span>Benchmark</span></a>
+  <a class="paper-link paper-link-huggingface" href="https://huggingface.co/datasets/wsy-w1k/YANAMI_Dataset" target="_blank" rel="noopener noreferrer" aria-label="YANAMI dataset on Hugging Face"><i class="fas fa-database" aria-hidden="true"></i><span>Dataset</span></a>
+</nav>
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">Preprint</div><video class="paper-media" autoplay muted loop playsinline preload="auto" poster="images/world2wrist.png" data-publication-autoplay aria-label="World-to-Wrist video preview"><source src="resources/videos/world-to-wrist.mp4" type="video/mp4"><img src="images/world2wrist.png" alt="World-to-Wrist preview"></video></div></div>
 <div class='paper-box-text' markdown="1">

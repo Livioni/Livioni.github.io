@@ -425,6 +425,18 @@ body {
         }
     }
 
+    @include breakpoint(max-width ($medium - .02px)) {
+        gap: 1.15rem;
+
+        .paper-box-image {
+            order: 1;
+        }
+
+        .paper-box-text {
+            order: 2;
+        }
+    }
+
     @include breakpoint($medium) {
         .paper-box-image {
             justify-content: flex-start;

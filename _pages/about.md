@@ -32,7 +32,7 @@ Open for long-term internship opportunities in Embodied Intelligence.
 
 <div class="news-list" markdown="1">
 
-*2026.11.11 🎉🎉* We released "*[TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation](resources/TCP4D_arxiv.pdf)*" for public preview. Model weights, the dataset, and the benchmark will be open-sourced in future releases. Stay tuned!
+*2026.11.11 🎉🎉* We released "*[TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation](resources/TCP4D_arxiv.pdf)*" for public preview. Explore the [project page](https://livioni.github.io/TCP4D/), [model weights](https://huggingface.co/collections/HarrisonPENG/tcp-4d-models), [datasets](https://huggingface.co/collections/HarrisonPENG/tcp4d-datasets-and-benchmark), and [benchmark](https://huggingface.co/datasets/HarrisonPENG/TCP4D-Benchmark).
 
 *2026.11.04 🎉🎉* We released "*[YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction](https://arxiv.org/abs/2611.05280)*", together with the [dataset](https://huggingface.co/datasets/wsy-w1k/YANAMI_Dataset) and [benchmark](https://huggingface.co/datasets/wsy-w1k/YANAMI_Bench). Check out the [project page](https://rowletqwq.github.io/YANAMI/)!
 
@@ -72,6 +72,16 @@ Open for long-term internship opportunities in Embodied Intelligence.
 ---
 
 <u>Haosong Peng*</u>, Xiangyang Liu\*, Zhengshen Zhang, Yunfeng Fan, Tianyu Qi, Xin Xia, Yufeng Zhan, Wenchao Xu
+
+---
+
+<nav class="paper-links" aria-label="TCP4D resources">
+  <a class="paper-link" href="https://livioni.github.io/TCP4D/" target="_blank" rel="noopener noreferrer"><i class="fas fa-globe" aria-hidden="true"></i><span>Homepage</span></a>
+  <a class="paper-link" href="https://github.com/Livioni/TCP4D" target="_blank" rel="noopener noreferrer"><i class="fab fa-github" aria-hidden="true"></i><span>Code</span></a>
+  <a class="paper-link paper-link-huggingface" href="https://huggingface.co/collections/HarrisonPENG/tcp4d-datasets-and-benchmark" target="_blank" rel="noopener noreferrer" aria-label="TCP4D datasets and benchmark on Hugging Face"><i class="fas fa-database" aria-hidden="true"></i><span>Dataset</span></a>
+  <a class="paper-link paper-link-huggingface" href="https://huggingface.co/datasets/HarrisonPENG/TCP4D-Benchmark" target="_blank" rel="noopener noreferrer" aria-label="TCP4D benchmark on Hugging Face"><i class="fas fa-database" aria-hidden="true"></i><span>Benchmark</span></a>
+  <a class="paper-link paper-link-model" href="https://huggingface.co/collections/HarrisonPENG/tcp-4d-models" target="_blank" rel="noopener noreferrer" aria-label="TCP4D models on Hugging Face"><i class="fas fa-cube" aria-hidden="true"></i><span>Model</span></a>
+</nav>
 
 </div>
 </div>

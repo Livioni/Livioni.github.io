@@ -32,7 +32,7 @@ Open for long-term internship opportunities in Embodied Intelligence.
 
 <div class="news-list" markdown="1">
 
-*2026.11.11 🎉🎉* We released "*[TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation](resources/TCP4D_arxiv.pdf)*" for public preview. Explore the [project page](https://livioni.github.io/TCP4D/), [model weights](https://huggingface.co/collections/HarrisonPENG/tcp-4d-models), [datasets](https://huggingface.co/collections/HarrisonPENG/tcp4d-datasets-and-benchmark), and [benchmark](https://huggingface.co/datasets/HarrisonPENG/TCP4D-Benchmark).
+*2026.11.18 🎉🎉* We officially released "*[TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation](https://arxiv.org/abs/2611.23143)*" for public preview. Explore the [project page](https://livioni.github.io/TCP4D/), [model weights](https://huggingface.co/collections/HarrisonPENG/tcp-4d-models), [datasets](https://huggingface.co/collections/HarrisonPENG/tcp4d-datasets-and-benchmark), and [benchmark](https://huggingface.co/datasets/HarrisonPENG/TCP4D-Benchmark).
 
 *2026.11.04 🎉🎉* We released "*[YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction](https://arxiv.org/abs/2611.05280)*", together with the [dataset](https://huggingface.co/datasets/wsy-w1k/YANAMI_Dataset) and [benchmark](https://huggingface.co/datasets/wsy-w1k/YANAMI_Bench). Check out the [project page](https://rowletqwq.github.io/YANAMI/)!
 
@@ -64,7 +64,7 @@ Open for long-term internship opportunities in Embodied Intelligence.
 
 ### Selected Papers
 
-<div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">Preview</div><video class="paper-media" autoplay muted loop playsinline preload="auto" poster="images/tcp4d.png" data-publication-autoplay aria-label="TCP4D video preview"><source src="resources/videos/TCP4D.mp4" type="video/mp4"><img src="images/tcp4d.png" alt="TCP4D tracking and generation preview"></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div class="paper-media-frame"><div class="badge">Arxiv</div><video class="paper-media" autoplay muted loop playsinline preload="auto" poster="images/tcp4d.png" data-publication-autoplay aria-label="TCP4D video preview"><source src="resources/videos/TCP4D.mp4" type="video/mp4"><img src="images/tcp4d.png" alt="TCP4D tracking and generation preview"></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 **[TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation](https://arxiv.org/abs/2611.23143)**
